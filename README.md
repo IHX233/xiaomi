@@ -9,5 +9,4 @@
 
 #### Home
 
-| 首页 ![](https://github.com/IHX233/Gallery/blob/main/xiaomi/00961AC1-9773-40C3-AF19-0A6F64B3CC72.png)|
-|---|---|---|
+ 首页 ![](https://github.com/IHX233/Gallery/blob/main/xiaomi/00961AC1-9773-40C3-AF19-0A6F64B3CC72.png)
